@@ -123,7 +123,7 @@ eaidic.com/<br>
 ## Screenshots Project
 
 
-### Home {#home}
+### Home 
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/home.png)
 
