@@ -123,57 +123,57 @@ eaidic.com/<br>
 ## Screenshots Project
 
 
-### Home 
+## Home 
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/home.png)
 
-### alianzas
+## alianzas
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/Alianzas-y-convenios-Eadic.png)
 
 
-###  divisiones
+##  divisiones
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/Divisiones-eadic.png)
 
-###  sobre
+##  sobre
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/sobre-eadic.png)
 
-###  casos-exito-empresas
+##  casos-exito-empresas
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/casos-exito-empresas.png)
 
-###  casos-exito-alumnos
+##  casos-exito-alumnos
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/Casos-exito-alumnos.png)
 
-###  google-meet
+##  google-meet
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/google-meet.png)
 
-###  contacto
+##  contacto
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/contacto.png)
 
-###  formacion-especializada
+##  formacion-especializada
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/formacion-especializada.png)
 
-###  oferta-master
+##  oferta-master
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/Oferta-Masters-online.png)
 
-###  oferta-cusos
+##  oferta-cusos
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/Oferta-cursos-online.png)
 
-###  oferta-diplomado
+##  oferta-diplomado
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/Oderta-diplomado-online.png)
 
 
-###  blog
+##  blog
 
 ![Home](https://stupefied-kepler.143-198-236-91.plesk.page/img/eadic.com/blog-eadic.png)
 
