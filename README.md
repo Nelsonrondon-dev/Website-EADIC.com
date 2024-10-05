@@ -125,69 +125,69 @@ eaidic.com/<br>
 
 ## Home 
 
-![Home](https://nelson-dev.tech/img/eadic.com/home.png)
+![Home](https://rondon.in/img/eadic.com/home.png)
 
 ## alianzas
 
-![Home](https://nelson-dev.tech/img/eadic.com/Alianzas-y-convenios-Eadic.png)
+![Home](https://rondon.in/img/eadic.com/Alianzas-y-convenios-Eadic.png)
 
 
 ##  divisiones
 
-![Home](https://nelson-dev.tech/img/eadic.com/Divisiones-eadic.png)
+![Home](https://rondon.in/img/eadic.com/Divisiones-eadic.png)
 
 ##  sobre
 
-![Home](https://nelson-dev.tech/img/eadic.com/sobre-eadic.png)
+![Home](https://rondon.in/img/eadic.com/sobre-eadic.png)
 
 ##  casos-exito-empresas
 
-![Home](https://nelson-dev.tech/img/eadic.com/casos-exito-empresas.png)
+![Home](https://rondon.in/img/eadic.com/casos-exito-empresas.png)
 
 ##  casos-exito-alumnos
 
-![Home](https://nelson-dev.tech/img/eadic.com/Casos-exito-alumnos.png)
+![Home](https://rondon.in/img/eadic.com/Casos-exito-alumnos.png)
 
 ##  google-meet
 
-![Home](https://nelson-dev.tech/img/eadic.com/google-meet.png)
+![Home](https://rondon.in/img/eadic.com/google-meet.png)
 
 ##  contacto
 
-![Home](https://nelson-dev.tech/img/eadic.com/contacto.png)
+![Home](https://rondon.in/img/eadic.com/contacto.png)
 
 ##  formacion-especializada
 
-![Home](https://nelson-dev.tech/img/eadic.com/formacion-especializada.png)
+![Home](https://rondon.in/img/eadic.com/formacion-especializada.png)
 
 ##  oferta-master
 
-![Home](https://nelson-dev.tech/img/eadic.com/Oferta-Masters-online.png)
+![Home](https://rondon.in/img/eadic.com/Oferta-Masters-online.png)
 
 ##  oferta-cusos
 
-![Home](https://nelson-dev.tech/img/eadic.com/Oferta-cursos-online.png)
+![Home](https://rondon.in/img/eadic.com/Oferta-cursos-online.png)
 
 ##  oferta-diplomado
 
-![Home](https://nelson-dev.tech/img/eadic.com/Oderta-diplomado-online.png)
+![Home](https://rondon.in/img/eadic.com/Oderta-diplomado-online.png)
 
 
 ##  blog
 
-![Home](https://nelson-dev.tech/img/eadic.com/blog-eadic.png)
+![Home](https://rondon.in/img/eadic.com/blog-eadic.png)
 
 ###  entradas
 
-![Home](https://nelson-dev.tech/img/eadic.com/entrada.png)
+![Home](https://rondon.in/img/eadic.com/entrada.png)
 
 ###  carrito
 
-![Home](https://nelson-dev.tech/img/eadic.com/carrito.png)
+![Home](https://rondon.in/img/eadic.com/carrito.png)
 
 ###  finalizar-compra
 
-![Home](https://nelson-dev.tech/img/eadic.com/Finalizar-compra.png)
+![Home](https://rondon.in/img/eadic.com/Finalizar-compra.png)
 
 ## Used By
 
